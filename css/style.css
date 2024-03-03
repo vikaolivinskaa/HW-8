@@ -1,0 +1,18 @@
+h3:first-child {
+  color: rgb(226, 70, 111);
+}
+#greycol {
+  color: gray;
+}
+
+div p:first-child {
+  color: red;
+}
+
+div ~ p {
+  color: rgb(14, 153, 18);
+}
+
+.yellow {
+  color: yellow;
+}
